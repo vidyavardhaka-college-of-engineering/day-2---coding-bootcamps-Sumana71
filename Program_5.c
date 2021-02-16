@@ -10,13 +10,17 @@
 int main()
 {
     int a, b, temp;
-    scanf("%d%d", &a, &b);
-
-    //Write your code here
-    
-    
-
   
-    printf("%d %d\n", a, b);
+    scanf("%d%d", &a, &b);
+    printf("Numbers before swap = %d %d\n", a,b);
+  
+
+  //Write your code here
+temp = a;
+a = b;
+b = temp;
+    
+  
+    printf("Numbers before swap = %d %d\n", a, b);
     return 0;
 }

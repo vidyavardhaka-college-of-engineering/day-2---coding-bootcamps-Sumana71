@@ -2,7 +2,11 @@
 #include<stdio.h>
 int main()
 {
-//Write your code bellow
+//Wriite your code bellow
+int L5=5
+int L2 = 23
+printf("%d\n",L5);
+printf("%d\n",L2);
 
 
 //if you write correct code fallowing output will print
