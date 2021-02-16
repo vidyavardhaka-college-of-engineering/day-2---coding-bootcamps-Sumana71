@@ -4,8 +4,8 @@
 int main()
 {
 //Replace Your Code and values in bellow two lines
-int age = "18";
-float weight = "54";
+int age = 18;
+float weight = 54;
 printf("%d\n",weight);
 printf("%f",weight);
 
