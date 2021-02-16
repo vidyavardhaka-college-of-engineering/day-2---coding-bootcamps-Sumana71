@@ -3,7 +3,7 @@
 int main()
 {
 //Wriite your code bellow
-int L5=5
+int L5= 5
 int L2 = 23
 printf("%d\n",L5);
 printf("%d\n",L2);
